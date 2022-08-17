@@ -231,6 +231,13 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript <br />
 •	Learning PHP MySQL and JavaScript by Robin Nixon 4th edition <br />
 •	Html 5 and CSS by code academy (2022) <br />
 •	JavaScript and jQuery by Jon Duckett 1st edition <br />
+ ## how to use 
+ 1)create database on xammp server or any called garage92 <br />
+ 2)now run the xammp server into your localhost and give location of garage 92 file <br />
+ 3)admin dashboard :- username:Admin <br />
+                      password:admin123 <br />
+4)for accessing admin dashboard garage92/garage92/admin <br />
+for accessing user dashboard  garage92/garage92/ <br />
 
 
 
